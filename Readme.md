@@ -57,4 +57,4 @@ Search Term - What species name search term was used to find this study
 Authors - Names of the Authors from the ISI database
 Title - Title of the paper from the ISI database.
 
-Other column tags can be found at http://science.thomsonreuters.com/tutorials/wsp_docs/field%20descriptions/WOS_xml.html
+Other column tags can be found at   http://science.thomsonreuters.com/tutorials/wsp_docs/field%20descriptions/WOS_xml.html
